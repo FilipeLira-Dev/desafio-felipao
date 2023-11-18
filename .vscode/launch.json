@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://readline",
+            "request": "launch",
+            "url": "http://readline"
+        }
+    ]
+}
